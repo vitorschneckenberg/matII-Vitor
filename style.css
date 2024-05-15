@@ -1,0 +1,17 @@
+body{ 
+    background-color: darkcyan;
+    color: azure;
+    text-align: center;
+    font-size: xx-large;
+}
+.imagem-principal{
+    width: 40%;
+}
+.cabeçalho{
+      background-color: azure;
+      color: black;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-around;
+      
+}
